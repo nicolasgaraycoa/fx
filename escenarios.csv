@@ -1,34 +1,23 @@
-"sku","pvp_eur","lista","exw_usd"
-"opthimus 15",61.45,"actual",18.17
-"opthimus 15",59,"target",18.17
-"opthimus 15",61.45,"sugerida",18.17
-"opthimus 21",73.825,"actual",27.5
-"opthimus 21",73.825,"sugerida",27.5
-"opthimus 21",79,"target",27.5
-"opthimus 25",98.9666666666667,"sugerida",33
-"opthimus 25",98.9666666666667,"actual",33
-"opthimus 25",99,"target",33
-"presidente 15",38.9,"target",14
-"presidente 15",49.36,"sugerida",14
-"presidente 15",49.36,"actual",14
-"presidente 23",54.9333333333333,"actual",22.83
-"presidente 23",44.9,"target",22.83
-"presidente 23",54.9333333333333,"sugerida",22.83
-"presidente gran anejo",30.445,"actual",8
-"presidente gran anejo",30.445,"sugerida",8
-"presidente gran anejo",32,"target",8
-"quorhum 12",40.575,"sugerida",14
-"quorhum 12",40.575,"actual",14
-"quorhum 12",36.55,"target",14
-"quorhum 15",46,"target",17.5
-"quorhum 15",46.064,"sugerida",17.5
-"quorhum 15",46.064,"actual",17.5
-"quorhum 23",76.2666666666667,"actual",23.67
-"quorhum 23",66,"target",23.67
-"quorhum 23",76.2666666666667,"sugerida",23.67
-"quorhum 30",83.2666666666667,"actual",31.5
-"quorhum 30",83.2666666666667,"sugerida",31.5
-"quorhum 30",100,"target",31.5
-"unhiq xo",126.5,"sugerida",43.83
-"unhiq xo",126.5,"actual",43.83
-"unhiq xo",110,"target",43.83
+"sku","pvp_eur","lista"
+"opthimus 15",61.45,"sugerida"
+"opthimus 21",73.825,"sugerida"
+"opthimus 25",98.9666666666667,"sugerida"
+"presidente 15",49.36,"sugerida"
+"presidente 23",54.9333333333333,"sugerida"
+"presidente gran anejo",30.445,"sugerida"
+"quorhum 12",40.575,"sugerida"
+"quorhum 15",46.064,"sugerida"
+"quorhum 23",76.2666666666667,"sugerida"
+"quorhum 30",83.2666666666667,"sugerida"
+"unhiq xo",126.5,"sugerida"
+"opthimus 15",59,"target"
+"opthimus 21",79,"target"
+"opthimus 25",99,"target"
+"presidente 15",38.9,"target"
+"presidente 23",44.9,"target"
+"presidente gran anejo",32,"target"
+"quorhum 12",36.55,"target"
+"quorhum 15",46,"target"
+"quorhum 23",66,"target"
+"quorhum 30",100,"target"
+"unhiq xo",110,"target"

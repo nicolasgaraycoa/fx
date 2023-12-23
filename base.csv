@@ -1,12 +1,12 @@
-"sku","lista","exw_usd"
-"opthimus 15","actual",18.17
-"opthimus 21","actual",27.5
-"opthimus 25","actual",33
-"presidente 15","actual",14
-"presidente 23","actual",22.83
-"presidente gran anejo","actual",8
-"quorhum 12","actual",14
-"quorhum 15","actual",17.5
-"quorhum 23","actual",23.67
-"quorhum 30","actual",31.5
-"unhiq xo","actual",43.83
+sku,exw_usd
+opthimus 15,18.17
+opthimus 21,27.5
+opthimus 25,33
+presidente 15,14
+presidente 23,22.83
+presidente gran anejo,8
+quorhum 12,14
+quorhum 15,17.5
+quorhum 23,23.67
+quorhum 30,31.5
+unhiq xo,43.83

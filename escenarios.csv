@@ -1,23 +1,23 @@
-"sku","pvp_eur","lista"
-"opthimus 15",61.45,"sugerida"
-"opthimus 21",73.825,"sugerida"
-"opthimus 25",98.9666666666667,"sugerida"
-"presidente 15",49.36,"sugerida"
-"presidente 23",54.9333333333333,"sugerida"
-"presidente gran anejo",30.445,"sugerida"
-"quorhum 12",40.575,"sugerida"
-"quorhum 15",46.064,"sugerida"
-"quorhum 23",76.2666666666667,"sugerida"
-"quorhum 30",83.2666666666667,"sugerida"
-"unhiq xo",126.5,"sugerida"
-"opthimus 15",59,"target"
-"opthimus 21",79,"target"
-"opthimus 25",99,"target"
-"presidente 15",38.9,"target"
-"presidente 23",44.9,"target"
-"presidente gran anejo",32,"target"
-"quorhum 12",36.55,"target"
-"quorhum 15",46,"target"
-"quorhum 23",66,"target"
-"quorhum 30",100,"target"
-"unhiq xo",110,"target"
+sku,pvp_eur,lista
+opthimus 15,61.45,actual
+opthimus 21,73.825,actual
+opthimus 25,98.96666667,actual
+presidente 15,49.36,actual
+presidente 23,54.93333333,actual
+presidente gran anejo,30.445,actual
+quorhum 12,40.575,actual
+quorhum 15,46.064,actual
+quorhum 23,76.26666667,actual
+quorhum 30,83.26666667,actual
+unhiq xo,126.5,actual
+opthimus 15,59,target
+opthimus 21,79,target
+opthimus 25,99,target
+presidente 15,38.9,target
+presidente 23,44.9,target
+presidente gran anejo,32,target
+quorhum 12,36.55,target
+quorhum 15,46,target
+quorhum 23,66,target
+quorhum 30,100,target
+unhiq xo,110,target
